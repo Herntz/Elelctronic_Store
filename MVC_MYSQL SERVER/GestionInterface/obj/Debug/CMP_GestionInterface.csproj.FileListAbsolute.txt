@@ -1,0 +1,7 @@
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\bin\Debug\GestionInterface.dll
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\bin\Debug\GestionInterface.pdb
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\obj\Debug\CMP_GestionInterface.csproj.AssemblyReference.cache
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\obj\Debug\CMP_GestionInterface.csproj.CoreCompileInputs.cache
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\obj\Debug\GestionInterface.dll
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\obj\Debug\GestionInterface.pdb
+H:\CMP Electronic Store\MVC_MYSQL SERVER\GestionInterface\bin\Debug\GestionInterface.dll.config

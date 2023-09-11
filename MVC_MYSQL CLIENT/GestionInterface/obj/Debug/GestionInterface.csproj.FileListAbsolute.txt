@@ -1,0 +1,17 @@
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.csprojResolveAssemblyReference.cache
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.pdb
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.dll
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.pdb
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.dll
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\bin\Debug\GestionInterface.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\GestionInterface\obj\Debug\GestionInterface.pdb

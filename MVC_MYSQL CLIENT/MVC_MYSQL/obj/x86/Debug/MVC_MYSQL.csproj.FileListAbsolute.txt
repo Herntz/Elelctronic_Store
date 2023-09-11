@@ -1,0 +1,128 @@
+c:\users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Properties.Resources.resources
+c:\users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.GenerateResource.Cache
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\bin\Debug\MVC_MYSQL.pdb
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csprojResolveAssemblyReference.cache
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+C:\Users\fritz\onedrive\documents\visual studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Form1.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\bin\Debug\MVC_MYSQL.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\bin\Debug\MySql.Data.dll
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csprojResolveAssemblyReference.cache
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Form1.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Properties.Resources.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\MVC_MYSQL\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.GenerateResource.Cache
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL SERVER\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL SERVER\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MySql.Data.dll
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csprojResolveAssemblyReference.cache
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Form1.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Properties.Resources.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.GenerateResource.Cache
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe.config
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.pdb
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.FnPrincipale.resources
+C:\Users\Dieu\Documents\Visual Studio 2010\Projects\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Fnutilisateur.resources
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe.config
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.pdb
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.dll
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.pdb
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.AssemblyReference.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.SuggestedBindingRedirects.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.FnPrincipale.resources
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Fnutilisateur.resources
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Form1.resources
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Properties.Resources.resources
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.GenerateResource.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.CoreCompileInputs.cache
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.CopyComplete
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+H:\CLIENTSERVER 2023\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe.config
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.exe
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\MVC_MYSQL.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\BouncyCastle.Crypto.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Google.Protobuf.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Guna.UI.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Guna.UI2.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Compression.LZ4.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Hash.xxHash.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Buffers.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.IO.Pipelines.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Memory.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Numerics.Vectors.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.AccessControl.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.Permissions.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.Principal.Windows.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\ZstdSharp.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\GestionInterface.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\BouncyCastle.Crypto.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Google.Protobuf.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Google.Protobuf.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Compression.LZ4.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\K4os.Hash.xxHash.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Buffers.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.IO.Pipelines.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Memory.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Numerics.Vectors.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.AccessControl.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.Permissions.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Security.Principal.Windows.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.AssemblyReference.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.SuggestedBindingRedirects.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Admin.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Dashboard.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Fm_Employees.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Fm_Users.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.FnPrincipale.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Fnutilisateur.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Form1.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Loading.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Properties.Resources.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Sales.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.SignIn.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.Supply.resources
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.GenerateResource.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe.licenses
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.CoreCompileInputs.cache
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.csproj.CopyComplete
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.exe
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\obj\x86\Debug\MVC_MYSQL.pdb
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+H:\CMP Electronic Store\MVC_MYSQL CLIENT\MVC_MYSQL\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
